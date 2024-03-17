@@ -1,0 +1,224 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "first_occ",
+            "request": "launch",
+            "mainClass": "Arrays.first_occ",
+            "projectName": "Java dsa_61dce856"
+        },
+        {
+            "type": "java",
+            "name": "search",
+            "request": "launch",
+            "mainClass": "Arrays.search",
+            "projectName": "Java dsa_61dce856"
+        },
+        {
+            "type": "java",
+            "name": "reverse_arr",
+            "request": "launch",
+            "mainClass": "Recursion.reverse_arr",
+            "projectName": "Java dsa_61dce856"
+        },
+        {
+            "type": "java",
+            "name": "first_occurence",
+            "request": "launch",
+            "mainClass": "Recursion.Alpha.first_occurence",
+            "projectName": "Java dsa_61dce856"
+        },
+        {
+            "type": "java",
+            "name": "n_1",
+            "request": "launch",
+            "mainClass": "Recursion.Alpha.n_1",
+            "projectName": "Java dsa_61dce856"
+        },
+        {
+            "type": "java",
+            "name": "N_1",
+            "request": "launch",
+            "mainClass": "Recursion.Alpha.N_1",
+            "projectName": "Java dsa_61dce856"
+        },
+        {
+            "type": "java",
+            "name": "Tiling",
+            "request": "launch",
+            "mainClass": "Recursion.Tiling",
+            "projectName": "Java dsa_61dce856"
+        },
+        {
+            "type": "java",
+            "name": "power_optmzd",
+            "request": "launch",
+            "mainClass": "Recursion.power_optmzd",
+            "projectName": "Java dsa_61dce856"
+        },
+        {
+            "type": "java",
+            "name": "XpowN",
+            "request": "launch",
+            "mainClass": "Recursion.XpowN",
+            "projectName": "Java dsa_61dce856"
+        },
+        {
+            "type": "java",
+            "name": "last_occurence",
+            "request": "launch",
+            "mainClass": "Recursion.last_occurence",
+            "projectName": "Java dsa_61dce856"
+        },
+        {
+            "type": "java",
+            "name": "first_occurence",
+            "request": "launch",
+            "mainClass": "Recursion.first_occurence",
+            "projectName": "Java dsa_61dce856"
+        },
+        {
+            "type": "java",
+            "name": "Array_sort",
+            "request": "launch",
+            "mainClass": "Recursion.Array_sort",
+            "projectName": "Java dsa_61dce856"
+        },
+        {
+            "type": "java",
+            "name": "Fibo_norml",
+            "request": "launch",
+            "mainClass": "Recursion.Fibo_norml",
+            "projectName": "Java dsa_61dce856"
+        },
+        {
+            "type": "java",
+            "name": "fibonacci",
+            "request": "launch",
+            "mainClass": "Recursion.fibonacci",
+            "projectName": "Java dsa_61dce856"
+        },
+        {
+            "type": "java",
+            "name": "Sum_N",
+            "request": "launch",
+            "mainClass": "Recursion.Sum_N",
+            "projectName": "Java dsa_61dce856"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "Recursion.factorial",
+            "projectName": "Java dsa_61dce856"
+        },
+        {
+            "type": "java",
+            "name": "print1_N",
+            "request": "launch",
+            "mainClass": "Recursion.print1_N",
+            "projectName": "Java dsa_61dce856"
+        },
+        {
+            "type": "java",
+            "name": "N_1",
+            "request": "launch",
+            "mainClass": "Recursion.N_1",
+            "projectName": "Java dsa_61dce856"
+        },
+        {
+            "type": "java",
+            "name": "String_Builder",
+            "request": "launch",
+            "mainClass": "String.String_Builder",
+            "projectName": "Java dsa_61dce856"
+        },
+        {
+            "type": "java",
+            "name": "StringBuilder",
+            "request": "launch",
+            "mainClass": "String.StringBuilder",
+            "projectName": "Java dsa_61dce856"
+        },
+        {
+            "type": "java",
+            "name": "palindrome",
+            "request": "launch",
+            "mainClass": "String.palindrome",
+            "projectName": "Java dsa_61dce856"
+        },
+        {
+            "type": "java",
+            "name": "basic",
+            "request": "launch",
+            "mainClass": "String.basic",
+            "projectName": "Java dsa_61dce856"
+        },
+        {
+            "type": "java",
+            "name": "Basic",
+            "request": "launch",
+            "mainClass": "Arrays.Basic",
+            "projectName": "Java dsa_61dce856"
+        },
+        {
+            "type": "java",
+            "name": "prime_range",
+            "request": "launch",
+            "mainClass": "prime_range",
+            "projectName": "Java dsa_61dce856"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Func_Syntax",
+            "request": "launch",
+            "mainClass": "Func_Syntax",
+            "projectName": "Java dsa_61dce856"
+        },
+        {
+            "type": "java",
+            "name": "func_overloading",
+            "request": "launch",
+            "mainClass": "func_overloading",
+            "projectName": "Java dsa_61dce856"
+        },
+        {
+            "type": "java",
+            "name": "func_parameters",
+            "request": "launch",
+            "mainClass": "func_parameters",
+            "projectName": "Java dsa_61dce856"
+        },
+        {
+            "type": "java",
+            "name": "prime",
+            "request": "launch",
+            "mainClass": "prime",
+            "projectName": "Java dsa_61dce856"
+        },
+        {
+            "type": "java",
+            "name": "product",
+            "request": "launch",
+            "mainClass": "product",
+            "projectName": "Java dsa_61dce856"
+        },
+        {
+            "type": "java",
+            "name": "swap",
+            "request": "launch",
+            "mainClass": "swap",
+            "projectName": "Java dsa_61dce856"
+        }
+    ]
+}
